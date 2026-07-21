@@ -32,7 +32,7 @@
 
   <li>
     <b>Live Site:</b>
-    <a href=" https://abdullah-zulfiqar0.github.io/tic-tac-toe-js/" target="_blank">
+    <a href="https://abdullah-zulfiqar0.github.io/tic-tac-toe-js/](https://abdullah-zulfiqar0.github.io/tic-tac-toe-js/" target="_blank">
       Play Tic Tac Toe
     </a>
   </li>
